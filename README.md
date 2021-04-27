@@ -1,2 +1,2 @@
 # TotallyNotZelda
-Zelda block pushing game to teach arithmetic
+Zelda block pushing game to teach basic arithmetic
